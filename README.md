@@ -9,7 +9,7 @@ This is  a Python script for checking the status of domains or IPs and saving th
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/IPHunter.git
+   git clone https://github.com/ashique-thaha/IPHunter.git
    ```
 
 2. **Navigate to the Script Directory:**
