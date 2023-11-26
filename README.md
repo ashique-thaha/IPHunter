@@ -52,5 +52,4 @@ Feel free to open issues or submit pull requests to improve the script.
 
 **IPHunter** by Ashique Thaha
 
-```
 
